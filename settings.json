@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vikesmp-main.aternos.me
-",
+    "ip": "vikesmp-main.aternos.me",
     "port": 55648,
     "version": "",
     "try-creative": false
